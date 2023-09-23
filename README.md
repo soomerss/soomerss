@@ -8,7 +8,9 @@
 
 
 
-    <table><tbody><tr>
+    <table>
+    <tbody>
+    <tr>
         <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/155"><img width="100%" src="img/2NEuVkFdDdzyRP5NtPEViK.png"/><br/><div>[네트워크] 네트워크의 데이터와 생성과정</div></a>
         <div>목차 1. 네트워크의 데이터 2. 생성과정 3. 용어정</div></td>
         <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/154"><img width="100%" src="img/08jJxQvCbrcwMWgPWPCsb1.png"/><br/><div>[네트워크] Web과 HTTP프로토콜</div></a>
@@ -20,5 +22,8 @@
         <td><div>2023. 9. 14.</div><a href="https://soomers.tistory.com/151"><img width="100%" src="img/5Y8IvXd9YqUqifr0PLVfk0.png"/><br/><div>Python-dotenv라이브러리를 이용하여 환경변수 관리하기</div></a>
         <div>들어가면서 이전에 아래의 포스팅을 작성하면서 SECRE</div></td>
         <td><div>2023. 9. 13.</div><a href="https://soomers.tistory.com/150"><img width="100%" src="img/m4tqDCotVJ6IkJ1T5loaW0.png"/><br/><div>[Jupyter Notebook] 커널 에러 해결</div></a>
-        <div>문제상황 마구잡이로 깔고 환경설정하다가 지우고 하다보니</div></td></tr></tbody></table>
+        <div>문제상황 마구잡이로 깔고 환경설정하다가 지우고 하다보니</div></td>
+        </tr>
+        </tbody>
+        </table>
     
