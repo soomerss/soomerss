@@ -11,7 +11,6 @@
 <table>
 <tbody>
 <tr>
-    
 <td>
 <a href="https://soomers.tistory.com/155">
     <div>2023. 9. 21.</div>
@@ -20,7 +19,6 @@
 </a>
 <div>목차 1. 네트워크의 데이터 2. 생성과정 3. 용어정</div>
 </td>
-
 <td>
 <a href="https://soomers.tistory.com/154">
     <div>2023. 9. 21.</div>
@@ -29,7 +27,6 @@
 </a>
 <div>웹이란? - 팀 버너스 리가 만든 네트워크 생태계이다.</div>
 </td>
-
 <td>
 <a href="https://soomers.tistory.com/153">
     <div>2023. 9. 21.</div>
@@ -38,10 +35,8 @@
 </a>
 <div>IP란 - 인터넷 프로토콜, 호스트의 주소로 기능함 -</div>
 </td>
-
 </tr>
 <tr>
-
 <td>
 <a href="https://soomers.tistory.com/152">
     <div>2023. 9. 18.</div>
@@ -50,7 +45,6 @@
 </a>
 <div>GitHub Action이란? github action</div>
 </td>
-
 <td>
 <a href="https://soomers.tistory.com/151">
     <div>2023. 9. 14.</div>
@@ -59,7 +53,6 @@
 </a>
 <div>들어가면서 이전에 아래의 포스팅을 작성하면서 SECRE</div>
 </td>
-
 <td>
 <a href="https://soomers.tistory.com/150">
     <div>2023. 9. 13.</div>
@@ -68,7 +61,6 @@
 </a>
 <div>문제상황 마구잡이로 깔고 환경설정하다가 지우고 하다보니</div>
 </td>
-
 </tr>
 </tbody>
 </table>
