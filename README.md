@@ -13,14 +13,14 @@
 <table>
     <tbody>
         <tr>
-                 <td>
-                          <a href="https://soomers.tistory.com/155">
-                        <div>2023. 9. 21.</div>
-                        <img width="100%" src="img/2NEuVkFdDdzyRP5NtPEViK.png"/><br/>
-                        <div>[네트워크] 네트워크의 데이터와 생성과정</div>
-                         </a>
-                         <div>목차 1. 네트워크의 데이터 2. 생성과정 3. 용어정</div>
-                    </td>
+         <td>
+                <a href="https://soomers.tistory.com/155">
+                <div>2023. 9. 21.</div>
+                <img width="100%" src="img/2NEuVkFdDdzyRP5NtPEViK.png"/><br/>
+                <div>[네트워크] 네트워크의 데이터와 생성과정</div>
+                 </a>
+                 <div>목차 1. 네트워크의 데이터 2. 생성과정 3. 용어정</div>
+            </td>
             </tr>
     </tbody>
 </table
