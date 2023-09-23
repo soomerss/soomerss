@@ -1,10 +1,10 @@
-<table>### 💬 About ME
+### 💬 About ME
 
 - 안녕하세요. 데이터 엔지니어 한기호입니다.
 - 내가 아는 것을 상대방에게 쉽게 알려주는 것을 좋아합니다.  
 - 맡은 것을 끝까지 완료해서 함께 일하고 싶은 사람이 되려고 합니다.
 
-### 🌱 Soomers Blog
+### 🌱 Soomers Blog    <table>
         <tbody>
             <tr>
                     <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/155"><img width="100%" src="img/2NEuVkFdDdzyRP5NtPEViK.png"/><br/><div>[네트워크] 네트워크의 데이터와 생성과정</div></a>
@@ -16,4 +16,4 @@
         <div>문제상황 마구잡이로 깔고 환경설정하다가 지우고 하다보니 문제가 발생했다. Jupy</div></td>
             </tr>
         </tbody>
-    </table>    /<table>
+    </table>
