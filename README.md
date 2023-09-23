@@ -8,7 +8,7 @@
 
 
 
-    <table>
+<table>
         <tbody>
             <tr>
                     <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/155"><img width="100%" src="img/2NEuVkFdDdzyRP5NtPEViK.png"/><br/><div>[네트워크] 네트워크의 데이터와 생성과정</div></a>
@@ -20,5 +20,5 @@
         <div>문제상황 마구잡이로 깔고 환경설정하다가 지우고 하다보니 문제가 발생했다. Jupyter n</div></td>
             </tr>
         </tbody>
-    </table>
+</table>
     
