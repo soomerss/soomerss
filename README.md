@@ -5,8 +5,6 @@
 - 맡은 것을 끝까지 완료해서 함께 일하고 싶은 사람이 되려고 합니다.
 
 ### 🌱 Soomers Blog
-
-
         <tbody>
             <tr>
                     <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/155"><img width="100%" src="img/2NEuVkFdDdzyRP5NtPEViK.png"/><br/><div>[네트워크] 네트워크의 데이터와 생성과정</div></a>
