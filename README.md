@@ -11,19 +11,13 @@
     <table>
         <tbody>
             <tr>
-            
-        <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/155"><img width="100%" src="img/2NEuVkFdDdzyRP5NtPEViK.png"/><br/><div>[네트워크] 네트워크의 데이터와 생성과정</div></a>
-        <div>목차 1. 네트워크의 데이터 2. 생성과정 3. 용어정</div></td>
-        <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/154"><img width="100%" src="img/08jJxQvCbrcwMWgPWPCsb1.png"/><br/><div>[네트워크] Web과 HTTP프로토콜</div></a>
-        <div>웹이란? - 팀 버너스 리가 만든 네트워크 생태계이다.</div></td>
-        <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/153"><img width="100%" src="img/D01mcaSmt3cCcR5hQ6i0f1.png"/><br/><div>[네트워크] IP와 식별자</div></a>
-        <div>IP란 - 인터넷 프로토콜, 호스트의 주소로 기능함 -</div></td></tr><tr>
-        <td><div>2023. 9. 18.</div><a href="https://soomers.tistory.com/152"><img width="100%" src="img/nKUkFCkOyFTGdjsjpoKYmk.png"/><br/><div>[git] GitHub Action 사용법 - 기초</div></a>
-        <div>GitHub Action이란? github action</div></td>
-        <td><div>2023. 9. 14.</div><a href="https://soomers.tistory.com/151"><img width="100%" src="img/5Y8IvXd9YqUqifr0PLVfk0.png"/><br/><div>Python-dotenv라이브러리를 이용하여 환경변수 관리하기</div></a>
-        <div>들어가면서 이전에 아래의 포스팅을 작성하면서 SECRE</div></td>
-        <td><div>2023. 9. 13.</div><a href="https://soomers.tistory.com/150"><img width="100%" src="img/m4tqDCotVJ6IkJ1T5loaW0.png"/><br/><div>[Jupyter Notebook] 커널 에러 해결</div></a>
-        <div>문제상황 마구잡이로 깔고 환경설정하다가 지우고 하다보니</div></td>
+                    <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/155"><img width="100%" src="img/2NEuVkFdDdzyRP5NtPEViK.png"/><br/><div>[네트워크] 네트워크의 데이터와 생성과정</div></a>
+        <div>목차 1. 네트워크의 데이터 2. 생성과정 3. 용어정리 1. 네트워크의 데이터 - 네트워</div></td>        <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/154"><img width="100%" src="img/08jJxQvCbrcwMWgPWPCsb1.png"/><br/><div>[네트워크] Web과 HTTP프로토콜</div></a>
+        <div>웹이란? - 팀 버너스 리가 만든 네트워크 생태계이다. - 특정 논문의 마지막 "참고 문헌</div></td>        <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/153"><img width="100%" src="img/D01mcaSmt3cCcR5hQ6i0f1.png"/><br/><div>[네트워크] IP와 식별자</div></a>
+        <div>IP란 - 인터넷 프로토콜, 호스트의 주소로 기능함 - IPv4주소는 network주소와 </div></td></tr><tr>        <td><div>2023. 9. 18.</div><a href="https://soomers.tistory.com/152"><img width="100%" src="img/nKUkFCkOyFTGdjsjpoKYmk.png"/><br/><div>[git] GitHub Action 사용법 - 기초</div></a>
+        <div>GitHub Action이란? github action이란 코드 수정 후 필요한 작업을 자</div></td>        <td><div>2023. 9. 14.</div><a href="https://soomers.tistory.com/151"><img width="100%" src="img/5Y8IvXd9YqUqifr0PLVfk0.png"/><br/><div>Python-dotenv라이브러리를 이용하여 환경변수 관리하기</div></a>
+        <div>들어가면서 이전에 아래의 포스팅을 작성하면서 SECRET_KEY를 파일 또는 환경변수를 통</div></td>        <td><div>2023. 9. 13.</div><a href="https://soomers.tistory.com/150"><img width="100%" src="img/m4tqDCotVJ6IkJ1T5loaW0.png"/><br/><div>[Jupyter Notebook] 커널 에러 해결</div></a>
+        <div>문제상황 마구잡이로 깔고 환경설정하다가 지우고 하다보니 문제가 발생했다. Jupyter n</div></td>
             </tr>
         </tbody>
     </table>
