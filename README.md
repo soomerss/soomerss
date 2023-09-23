@@ -6,54 +6,18 @@
 
 ### 🌱 Soomers Blog
 
+
+
 <table>
- <tbody>
-  <tr><td>
-    <a href="https://soomers.tistory.com/151">
-        <img style="width: 250px; height: auto;" src="https://blog.kakaocdn.net/dn/VukMD/btst537D5rs/5Y8IvXd9YqUqifr0PLVfk0/img.png"/><br/>
-        <div>Python-dotenv라이브러리를 이용하여 환경변수 관리하기</div>
-    </a>
-    <div>https://soomers.tistory.com/56 [Django] </div>
-    <div>2023. 9. 14.</div>
-    </td><td>
-    <a href="https://soomers.tistory.com/150">
-        <img style="width: 250px; height: auto;" src="https://blog.kakaocdn.net/dn/c8ZCQf/btstQUKt1NJ/m4tqDCotVJ6IkJ1T5loaW0/img.png"/><br/>
-        <div>[Jupyter Notebook] 커널 에러 해결</div>
-    </a>
-    <div>문제상황 마구잡이로 깔고 환경설정하다가 지우고 하다보니 문제가 발생했다.</div>
-    <div>2023. 9. 13.</div>
-    </td><td>
-    <a href="https://soomers.tistory.com/149">
-        <img style="width: 250px; height: auto;" src="https://blog.kakaocdn.net/dn/dH8wu3/btstfnG2sv5/n3Kb1DS1yA3rPVKdd3bvu0/img.png"/><br/>
-        <div>[마무리] 데이터 엔지니어링 1기를 끝 마치면서 🐱‍🏍✨</div>
-    </a>
-    <div>서론 7월, 8월을 마무리하고 데이터 엔지니어링이란 과정을 마친 지금 다</div>
-    <div>2023. 9. 7.</div>
-    </td>
-</tr><tr>
-<td>
-    <a href="https://soomers.tistory.com/148">
-        <img style="width: 250px; height: auto;" src="https://blog.kakaocdn.net/dn/eiDn0V/btssxIdrm8w/AultPm4ZPK3IdxzNul81RK/img.png"/><br/>
-        <div>EMR Spark With Airflow(MWAA) - Spark Job 실행하여 S3적재</div>
-    </a>
-    <div>1. 들어가면서 프로젝트를 진행하면서 AWS airflow 서비스인 Mw</div>
-    <div>2023. 8. 29.</div>
-    </td><td>
-    <a href="https://soomers.tistory.com/147">
-        <img style="width: 250px; height: auto;" src="https://blog.kakaocdn.net/dn/dl1uyB/btsrUrxG0Dd/9enVQmyk1aOj6Gy1xtFMrK/img.png"/><br/>
-        <div>[DB] Redshift 외부 테이블의 Partitioning을 진행해보자</div>
-    </a>
-    <div>배경 및 목표 이번 주제는 Redshift 외부테이블의 Partition</div>
-    <div>2023. 8. 24.</div>
-    </td><td>
-    <a href="https://soomers.tistory.com/146">
-        <img style="width: 250px; height: auto;" src="https://blog.kakaocdn.net/dn/s2aqN/btsrR4uzFTj/S2UZAtkLCJ8k4Wv5aH5QRk/img.png"/><br/>
-        <div>[Airflow] execution_date, Catchup, Backfill을 사용하자</div>
-    </a>
-    <div>문제 상황 airflow를 운용하면서 catchup과 backfill을 </div>
-    <div>2023. 8. 22.</div>
-    </td>
-  </tr>
-  </tbody>
-</table>
- 
+        <tbody>
+            <tr>
+                    <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/155"><img width="100%" src="img/2NEuVkFdDdzyRP5NtPEViK.png"/><br/><div>[네트워크] 네트워크의 데이터와 생성과정</div></a>
+        <div>목차 1. 네트워크의 데이터 2. 생성과정 3. 용어정리 1. 네트워크의 데이터 </div></td>        <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/154"><img width="100%" src="img/08jJxQvCbrcwMWgPWPCsb1.png"/><br/><div>[네트워크] Web과 HTTP프로토콜</div></a>
+        <div>웹이란? - 팀 버너스 리가 만든 네트워크 생태계이다. - 특정 논문의 마지막 "</div></td>        <td><div>2023. 9. 21.</div><a href="https://soomers.tistory.com/153"><img width="100%" src="img/D01mcaSmt3cCcR5hQ6i0f1.png"/><br/><div>[네트워크] IP와 식별자</div></a>
+        <div>IP란 - 인터넷 프로토콜, 호스트의 주소로 기능함 - IPv4주소는 networ</div></td></tr><tr>        <td><div>2023. 9. 18.</div><a href="https://soomers.tistory.com/152"><img width="100%" src="img/nKUkFCkOyFTGdjsjpoKYmk.png"/><br/><div>[git] GitHub Action 사용법 - 기초</div></a>
+        <div>GitHub Action이란? github action이란 코드 수정 후 필요한 </div></td>        <td><div>2023. 9. 14.</div><a href="https://soomers.tistory.com/151"><img width="100%" src="img/5Y8IvXd9YqUqifr0PLVfk0.png"/><br/><div>Python-dotenv라이브러리를 이용하여 환경변수 관리하기</div></a>
+        <div>들어가면서 이전에 아래의 포스팅을 작성하면서 SECRET_KEY를 파일 또는 환경</div></td>        <td><div>2023. 9. 13.</div><a href="https://soomers.tistory.com/150"><img width="100%" src="img/m4tqDCotVJ6IkJ1T5loaW0.png"/><br/><div>[Jupyter Notebook] 커널 에러 해결</div></a>
+        <div>문제상황 마구잡이로 깔고 환경설정하다가 지우고 하다보니 문제가 발생했다. Jupy</div></td>
+            </tr>
+        </tbody>
+    </table>
