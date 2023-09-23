@@ -9,9 +9,9 @@
 
 
     <table>
-    <tbody>
-        <tr>
-            
+        <tbody>
+            <tr>
+                
         <td>
             <a href="https://soomers.tistory.com/155">
                 <div>2023. 9. 21.</div>
@@ -70,7 +70,7 @@
         
             </tr><tr>
             
-        </tr>
-    </tbody>
+            </tr>
+        </tbody>
     </table>
     
