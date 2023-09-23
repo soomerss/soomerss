@@ -6,6 +6,8 @@
 
 ### 🌱 Soomers Blog
 
+<img width="100%" src="img/2NEuVkFdDdzyRP5NtPEViK3.png"/>
+
 <table>
  <tbody>
   <tr><td>
